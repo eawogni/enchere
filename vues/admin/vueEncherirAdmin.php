@@ -1,0 +1,1 @@
+<p class="alert-danger">En tant qu'administrateur vous ne pouvez pas enchérir</p>
