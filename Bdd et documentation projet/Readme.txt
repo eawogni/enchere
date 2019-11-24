@@ -13,7 +13,7 @@ configuration virtualhost
 	</Directory>
 </VirtualHost>
 
-NB: le fichier index.php se trouve dans le repertooire: public/index.php 
+NB: le fichier index.php se trouve dans le répertoire: public/index.php 
 
 --------------------------------------------------------------------------------
 Quelques comptes créés
