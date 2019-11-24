@@ -10,7 +10,7 @@ return $params=array(
     'host' => 'localhost',
     'dbname' => 'enchere',
     'username' => 'root',
-    'passwd' =>'21000'
+    'passwd' =>''
 
 );
 
