@@ -1,4 +1,4 @@
-Pour configurer la base de donnée, veullez éditer le fichier se trouvant dans :
+Pour configurer la base de donnÃ©e, veullez Ã©diter le fichier se trouvant dans :
 configBdd/config.php
 ---------------------------
 configuration virtualhost
@@ -13,10 +13,10 @@ configuration virtualhost
 	</Directory>
 </VirtualHost>
 
-NB: le fichier index.php se trouve dans le répertire: public/index.php 
+NB: le fichier index.php se trouve dans le repertooire: public/index.php 
 
 --------------------------------------------------------------------------------
-Quelques comptes crées
+Quelques comptes crÃ©Ã©s
 ---------------------------------
 Admin 
 ------------------------------
